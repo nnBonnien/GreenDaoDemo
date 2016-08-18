@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javapeople.javapeople">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javapeople/build/libs/javapeople.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
