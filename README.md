@@ -1,2 +1,2 @@
 # GreenDaoDemo
-greenDao配置使用示范
+greenDao的配置使用，适合初次使用greenDao的猿们学习
